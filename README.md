@@ -11,7 +11,7 @@ The program has no installer, just open the executable "MatcherSort.exe" and fol
 # Requeriments
 * Windows 7 or higher
 * Microsoft .NET Framework 4.5.2
-* A very specific problem! :P
+* A very specific problem! **'-'**
 
 # Usage
 #### IMPORTANT NOTE: The input files must be encoded in UTF-8.
@@ -95,7 +95,7 @@ Basically the algorithm takes the line number from **"targetedFile.txt"** and co
 In my case it was very useful because I had the template file in the right order, the English file in the wrong order and the Brazilian Portuguese file in the same order as the English file, but with its translated content and consequently different strings. This mode is based on the line number and not the string content.
 
 # WARNING
-This program can be **VERY USELESS** for some people! :)
+This program can be **VERY USELESS** for some people! **:)**
 
 It has a very specific function, but it costs nothing to share with the world, can it be that someone has the same problem as me?
 
