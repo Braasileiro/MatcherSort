@@ -94,7 +94,7 @@ Basically the algorithm takes the line number from **"targetedFile.txt"** and co
 In my case it was very useful because I had the template file in the right order, the English file in the wrong order and the Brazilian Portuguese file in the same order as the English file, but with its translated content and consequently different strings. This mode is based on the line number and not the string content.
 
 # WARNING
-This program can be very useless for some people! :)
+This program can be **VERY USELESS** for some people! :)
 
 It has a very specific function, but it costs nothing to share with the world, can it be that someone has the same problem as me?
 
