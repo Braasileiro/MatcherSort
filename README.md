@@ -6,7 +6,7 @@ I created this program initially to organize some files of the translation of th
 I realized that this tool can be very useful in remote scripts where it does not need to be inside the user's machine and so always check if the file has not changed, at least its contents. The source code is there and you can adapt it for your purpose, I put 2 basic functions as it was what I needed to help me in the translation of the game as I mentioned above.
 
 # Installing
-The program has no installer, just open the executable "MatcherSort.exe" and follow the instructions.
+The program has no installer, just open the executable **"MatcherSort.exe"** and follow the instructions.
 
 # Requeriments
 * Windows 7 or higher
