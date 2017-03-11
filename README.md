@@ -11,7 +11,7 @@ The program has no installer, just open the executable "MatcherSort.exe" and fol
 # Requeriments
 * Windows 7 or higher
 * Microsoft .NET Framework 4.5.2
-* A very specific problem! **'-'**
+* A very specific problem! **( ° ͜ʖ ͡°)**
 
 # Usage
 #### IMPORTANT NOTE: The input files must be encoded in UTF-8.
