@@ -21,6 +21,8 @@ The program has 2 programmed operating modes:
 ### 1. Target File Organizer
 In this mode you enter a template file and a file that you want to organize by template.
 
+`Usage: MatcherSort [defaultFile] [targetedFile]`
+
 Example:
 
 **defaultFile.txt**
@@ -51,6 +53,8 @@ It basically organizes the file according to the template.
 
 ### 1. Target File Line on Other File
 That way a little more complex to understand.
+
+`Usage: MatcherSort [defaultFile] [targetedFile] [[optionalFile]]`
 
 In this mode you enter a template file, the file you want to organize according to the template, and a file that contains the same number of lines of the file that will be organized, but with for example a different language.
 
